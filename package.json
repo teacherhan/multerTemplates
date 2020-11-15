@@ -1,0 +1,19 @@
+{
+  "name": "multerpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon file.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
